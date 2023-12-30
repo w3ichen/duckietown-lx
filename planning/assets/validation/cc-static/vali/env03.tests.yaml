@@ -1,3 +1,1149 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63d95c98bca754f95d36d2bdabbe473751ca8a5bbb2180d818a5df3655256b02
-size 34417
+params:
+  body:
+  - pose:
+      x: 0.0
+      y: 0.0
+      theta_deg: 0.0
+    primitive:
+      xmax: 0.07
+      xmin: -0.13
+      ymax: 0.045
+      ymin: -0.045
+    appearance:
+      fillcolor: blue
+      rel_zorder: 1
+  - pose:
+      x: 0.0
+      y: 0.0
+      theta_deg: 0.0
+    primitive:
+      xmax: 0.03
+      xmin: -0.03
+      ymax: 0.065
+      ymin: -0.065
+    appearance:
+      fillcolor: black
+      rel_zorder: -1
+  bounds:
+    xmax: 5.0
+    xmin: 0.0
+    ymax: 5.0
+    ymin: 0.0
+  environment:
+  - pose:
+      x: 0.0
+      y: 0.0
+      theta_deg: 0.0
+    primitive:
+      xmax: 0.1
+      xmin: 0.0
+      ymax: 5.0
+      ymin: 0.0
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.0
+      y: 0.0
+      theta_deg: 0.0
+    primitive:
+      xmax: 5.0
+      xmin: 4.9
+      ymax: 5.0
+      ymin: 0.0
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.0
+      y: 0.0
+      theta_deg: 0.0
+    primitive:
+      xmax: 5.0
+      xmin: 0.0
+      ymax: 5.0
+      ymin: 4.9
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.0
+      y: 0.0
+      theta_deg: 0.0
+    primitive:
+      xmax: 5.0
+      xmin: 0.0
+      ymax: 0.1
+      ymin: 0.0
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 4.18487458400705
+      y: 3.2187682418248658
+      theta_deg: 48.619650245580026
+    primitive:
+      radius: 0.5665989432257228
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 2.8275047503008284
+      y: 4.52729723788783
+      theta_deg: 298.72771213818146
+    primitive:
+      radius: 0.5488436485661923
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 1.588443489026063
+      y: 0.18572821694019803
+      theta_deg: 343.9922581998553
+    primitive:
+      radius: 0.4651617181549867
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 3.3898679990418232
+      y: 0.2568871498415659
+      theta_deg: 316.1667403418452
+    primitive:
+      radius: 0.3632248448349948
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 2.2861341187743385
+      y: 4.257392510445526
+      theta_deg: 157.50121412982452
+    primitive:
+      radius: 0.7861837058288981
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 4.008287519638846
+      y: 0.3397254227125751
+      theta_deg: 125.76448868938992
+    primitive:
+      radius: 0.5031834526126602
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 3.507398917414457
+      y: 0.8674650748810919
+      theta_deg: 227.40136846093347
+    primitive:
+      radius: 0.6570609127661435
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.6212854613603458
+      y: 3.9342497367399405
+      theta_deg: 153.39481285817322
+    primitive:
+      xmax: 0.30097611740118024
+      xmin: -0.30097611740118024
+      ymax: 0.3134735339876419
+      ymin: -0.3134735339876419
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.346016151425696
+      y: 2.2591745997138934
+      theta_deg: 45.43911377851205
+    primitive:
+      xmax: 0.38392577266905026
+      xmin: -0.38392577266905026
+      ymax: 0.388743901873961
+      ymin: -0.388743901873961
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 1.002075903310264
+      y: 2.593548445773437
+      theta_deg: 2.3688966841182424
+    primitive:
+      xmax: 0.21261502109263297
+      xmin: -0.21261502109263297
+      ymax: 0.30150180567551854
+      ymin: -0.30150180567551854
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.5056846819473854
+      y: 0.061834276785547315
+      theta_deg: 27.803747281782265
+    primitive:
+      xmax: 0.25216785523481833
+      xmin: -0.25216785523481833
+      ymax: 0.29649764838699066
+      ymin: -0.29649764838699066
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 0.5335198165012967
+      y: 4.686239914628501
+      theta_deg: 219.80220680090713
+    primitive:
+      xmax: 0.2457549879950641
+      xmin: -0.2457549879950641
+      ymax: 0.2911393927053054
+      ymin: -0.2911393927053054
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 2.826073734988258
+      y: 1.186037578148278
+      theta_deg: 172.27257042268855
+    primitive:
+      xmax: 0.2839611358088011
+      xmin: -0.2839611358088011
+      ymax: 0.30579520708245245
+      ymin: -0.30579520708245245
+    appearance:
+      fillcolor: brown
+  - pose:
+      x: 4.979083697165257
+      y: 4.947335386668445
+      theta_deg: 48.77162895664385
+    primitive:
+      xmax: 0.22216769895808286
+      xmin: -0.22216769895808286
+      ymax: 0.2964613087480613
+      ymin: -0.2964613087480613
+    appearance:
+      fillcolor: brown
+  max_curvature: 5.0
+  tolerance_xy_m: 0.05
+  tolerance_theta_deg: 20.0
+  max_linear_velocity_m_s: 0.4
+  min_linear_velocity_m_s: -0.3
+  max_angular_velocity_deg_s: 30.0
+interactions:
+- gt:
+    plan:
+    - duration: 0.7605024524764423
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.6131159955842834
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.8133046045850698
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4999999999999992
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.35355339059327145
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 1.8333333333333324
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 2.220446049250313e-15
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 1.3333333333333335
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666631
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.47140452079103023
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666294
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666818
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910333
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.166666666666668
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666665714
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910301
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666665694
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667326
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.47140452079102746
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666731
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666904
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666882
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666904
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666882
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666474
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666646
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667154
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667138
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666665
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910333
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666627
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666546
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666055
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910317
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666036
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667077
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667054
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666546
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666818
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.166666666666668
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666474
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910332
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666646
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666631
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.47140452079103023
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666294
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666546
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666904
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666882
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666546
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667077
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667054
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666474
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.499999999999998
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.3333333333333329
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333365
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333365
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333326
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.333333333333333
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 3.7007434154171886e-16
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.333333333333333
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 1.3333333333333337
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4999999999999975
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.35355339059327423
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.4999999999999975
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.49999999999999645
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.3535533905932742
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.833333333333336
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.042342361324819534
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1678985435027499
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.739759816613306
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    feasible: true
+  query:
+    start:
+      x: 3.882048355376251
+      y: 4.283056681437801
+      theta_deg: 118.41593543674117
+    target:
+      x: 0.7477021820549207
+      y: 1.5161738897340815
+      theta_deg: 146.53693466185626
+- gt:
+    plan:
+    - duration: 0.8408711005934467
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.5103957764165029
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.7193953745561525
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4999999999999984
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.35355339059327195
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 1.833333333333332
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 1.3333333333333337
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 3.7007434154171886e-16
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.3333333333333341
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333215
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333515
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333215
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333365
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 4.677806199023251e-16
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.33333333333333365
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.3333333333333341
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666818
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910333
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.166666666666668
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666665714
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910301
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666665694
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667326
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.47140452079102746
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666731
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666904
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666882
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666904
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666882
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666474
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666646
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667154
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667138
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666665
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910333
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666627
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666546
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666055
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910317
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666036
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667077
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910304
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667054
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666546
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666818
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.166666666666668
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666474
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910332
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666646
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666631
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.47140452079103023
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666294
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666732
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666713
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666563
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.499999999999999
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 1.3333333333333341
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666693
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.3535533905932743
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 1.1666666666666667
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.172798446232682
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.31252311044756936
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 1.7952803302432843
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    feasible: true
+  query:
+    start:
+      x: 4.329888002131501
+      y: 4.40195871633083
+      theta_deg: 236.35572821888113
+    target:
+      x: 1.9104953916186163
+      y: 1.975432115354785
+      theta_deg: 328.6744565203181
+- gt:
+    plan:
+    - duration: 0.43356414179488717
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.34763812338216843
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.016907801831009
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667374
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910319
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667374
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.1666666666666602
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910317
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666602
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.47140452079103473
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910303
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.1666666666666602
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910317
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666602
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910325
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.47140452079103107
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.1666666666666602
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910317
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666602
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.47140452079103107
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910322
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910318
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910314
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910329
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910307
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910314
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666696
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666665678
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.4714045207910305
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.4999999999999902
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 1.333333333333333
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.16666666666666663
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.3535533905932749
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666646
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666918
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.3535533905932728
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666902
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666711
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.353553390593275
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666667096
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.1666666666666607
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.35355339059327484
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666047
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666663
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.3535533905932749
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666646
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666513
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.35355339059327484
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666494
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666216
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.35355339059327484
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666197
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667262
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.353553390593275
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666724
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666513
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.35355339059327484
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.16666666666666494
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666667262
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.353553390593275
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 0.1666666666666724
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666666663
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.3535533905932749
+      velocity_x_m_s: 0.4
+      angular_velocity_deg_s: 0.0
+    - duration: 1.4999999999999998
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 1.3333333333333341
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.16666666666665678
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.47140452079102985
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.1666666666666765
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.3333333333333334
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.3333333333333352
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 1.0000000000000002
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 1.3333333333333326
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    - duration: 0.07655577351322905
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: 30.0
+    - duration: 0.40078377467021825
+      velocity_x_m_s: -0.3
+      angular_velocity_deg_s: 0.0
+    - duration: 0.5556018330838634
+      velocity_x_m_s: 0.0
+      angular_velocity_deg_s: -30.0
+    feasible: true
+  query:
+    start:
+      x: 4.602863315158152
+      y: 1.282799935196179
+      theta_deg: 337.50030980108363
+    target:
+      x: 3.811245361889122
+      y: 4.4456175023610465
+      theta_deg: 185.62861821288098

@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23bd8823cf534508e34dba1aa57c9514ff8f0834e02b0f23992c9d1c18534f18
-size 438
+plan:
+- duration: 0.2500000000000002
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+- duration: 0.2500000000000002
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+- duration: 0.24999999999999967
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+- duration: 0.2500000000000002
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+- duration: 0.24999999999999967
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+feasible: true

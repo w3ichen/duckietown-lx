@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56566a4f88115290115e3f4034773976148c0e630ec66a281a80efdf304c1eff
-size 1633
+plan:
+- duration: 0.2500000000000002
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+- duration: 1.4999999999999973
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: 30.0
+- duration: 0.4714045207910316
+  velocity_x_m_s: -0.3
+  angular_velocity_deg_s: 0.0
+- duration: 0.16666666666666435
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: -30.0
+- duration: 0.16666666666666988
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: 30.0
+- duration: 0.4714045207910304
+  velocity_x_m_s: -0.3
+  angular_velocity_deg_s: 0.0
+- duration: 0.16666666666666968
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: -30.0
+- duration: 0.16666666666666394
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: 30.0
+- duration: 0.4714045207910318
+  velocity_x_m_s: -0.3
+  angular_velocity_deg_s: 0.0
+- duration: 0.16666666666666374
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: -30.0
+- duration: 0.16666666666666904
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: 30.0
+- duration: 0.47140452079103107
+  velocity_x_m_s: -0.3
+  angular_velocity_deg_s: 0.0
+- duration: 0.16666666666666882
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: -30.0
+- duration: 0.16666666666666732
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: 30.0
+- duration: 0.47140452079103107
+  velocity_x_m_s: -0.3
+  angular_velocity_deg_s: 0.0
+- duration: 0.16666666666666713
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: -30.0
+- duration: 1.6666666666666632
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: 30.0
+- duration: 0.12500000000000014
+  velocity_x_m_s: 0.4
+  angular_velocity_deg_s: 0.0
+- duration: 1.4999999999999962
+  velocity_x_m_s: 0.0
+  angular_velocity_deg_s: -30.0
+feasible: true
