@@ -1,0 +1,48 @@
+status: success
+msg: null
+scores:
+  per-episodes:
+    d60-ego0:
+      deviation-heading: 0.0
+      in-drivable-lane: 2.7499999999999982
+      deviation-center-line: 0.0
+      driven_any: 0.514857106242196
+      driven_lanedir: 0.0
+      driven_lanedir_consec: 0.0
+      survival_time: 2.7499999999999982
+      distance-from-start: 0.5099515393585784
+  deviation-heading_mean: 0.0
+  deviation-heading_median: 0.0
+  deviation-heading_min: 0.0
+  deviation-heading_max: 0.0
+  in-drivable-lane_mean: 2.7499999999999982
+  in-drivable-lane_median: 2.7499999999999982
+  in-drivable-lane_min: 2.7499999999999982
+  in-drivable-lane_max: 2.7499999999999982
+  deviation-center-line_mean: 0.0
+  deviation-center-line_median: 0.0
+  deviation-center-line_min: 0.0
+  deviation-center-line_max: 0.0
+  driven_any_mean: 0.514857106242196
+  driven_any_median: 0.514857106242196
+  driven_any_min: 0.514857106242196
+  driven_any_max: 0.514857106242196
+  driven_lanedir_mean: 0.0
+  driven_lanedir_median: 0.0
+  driven_lanedir_min: 0.0
+  driven_lanedir_max: 0.0
+  driven_lanedir_consec_mean: 0.0
+  driven_lanedir_consec_median: 0.0
+  driven_lanedir_consec_min: 0.0
+  driven_lanedir_consec_max: 0.0
+  survival_time_mean: 2.7499999999999982
+  survival_time_median: 2.7499999999999982
+  survival_time_min: 2.7499999999999982
+  survival_time_max: 2.7499999999999982
+  distance-from-start_mean: 0.5099515393585784
+  distance-from-start_median: 0.5099515393585784
+  distance-from-start_min: 0.5099515393585784
+  distance-from-start_max: 0.5099515393585784
+  simulation-passed: 1
+stats: {}
+ipfs_hashes: {}

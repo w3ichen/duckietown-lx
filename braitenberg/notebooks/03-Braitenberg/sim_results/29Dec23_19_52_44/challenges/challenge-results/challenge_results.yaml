@@ -1,0 +1,19 @@
+status: host-error
+msg: "InvalidEnvironment:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.8/dist-packages/duckietown_experiment_manager/code.py\"\
+  , line 392, in main\n    stats = future.result()\n  File \"/usr/lib/python3.8/concurrent/futures/_base.py\"\
+  , line 444, in result\n    return self.__get_result()\n  File \"/usr/lib/python3.8/concurrent/futures/_base.py\"\
+  , line 389, in __get_result\n    raise self._exception\nconcurrent.futures.process.BrokenProcessPool:\
+  \ A process in the process pool was terminated abruptly while the future was running\
+  \ or pending.\n\nThe above exception was the direct cause of the following exception:\n\
+  \nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.8/dist-packages/duckietown_challenges/cie_concrete.py\"\
+  , line 691, in scoring_context\n    yield cie\n  File \"/usr/local/lib/python3.8/dist-packages/duckietown_experiment_manager/experiment_manager.py\"\
+  , line 60, in go\n    wrap(cie)\n  File \"/usr/local/lib/python3.8/dist-packages/duckietown_experiment_manager/experiment_manager.py\"\
+  , line 33, in wrap\n    asyncio.run(main(cie, logdir, attempts), debug=True)\n \
+  \ File \"/usr/lib/python3.8/asyncio/runners.py\", line 44, in run\n    return loop.run_until_complete(main)\n\
+  \  File \"/usr/lib/python3.8/asyncio/base_events.py\", line 616, in run_until_complete\n\
+  \    return future.result()\n  File \"/usr/local/lib/python3.8/dist-packages/duckietown_experiment_manager/code.py\"\
+  , line 426, in main\n    raise dc.InvalidEnvironment(msg) from e\nduckietown_challenges.exceptions.InvalidEnvironment:\
+  \ broken process pool\n"
+scores: {}
+stats: {}
+ipfs_hashes: {}
