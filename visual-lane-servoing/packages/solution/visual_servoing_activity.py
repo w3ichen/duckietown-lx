@@ -15,8 +15,10 @@ def get_steer_matrix_left_lane_markings(shape: Tuple[int, int]) -> np.ndarray:
     """
 
     # TODO: implement your own solution here
-    steer_matrix_left = np.random.rand(*shape)
+    # steer_matrix_left = np.random.rand(*shape)
     # ---
+    steer_matrix_left = np.zeros(shape)
+    steer_matrix_left[:, :shape[1]//2] = 1
     return steer_matrix_left
 
 
@@ -31,10 +33,11 @@ def get_steer_matrix_right_lane_markings(shape: Tuple[int, int]) -> np.ndarray:
     """
 
     # TODO: implement your own solution here
-    steer_matrix_right = np.random.rand(*shape)
+    # steer_matrix_right = np.random.rand(*shape)
     # ---
+    steer_matrix_right = np.zeros(shape)
+    steer_matrix_right[:, shape[1]//2:] = 1
     return steer_matrix_right
-
 
 def detect_lane_markings(image: np.ndarray) -> Tuple[np.ndarray, np.ndarray]:
     """
@@ -47,7 +50,20 @@ def detect_lane_markings(image: np.ndarray) -> Tuple[np.ndarray, np.ndarray]:
     h, w, _ = image.shape
 
     # TODO: implement your own solution here
-    mask_left_edge = np.random.rand(h, w)
-    mask_right_edge = np.random.rand(h, w)
+    # mask_left_edge = np.random.rand(h, w)
+    # mask_right_edge = np.random.rand(h, w)
+    # ---
+    white_lower_hsv = np.array([0, 0, 135])     
+    white_upper_hsv = np.array([125, 42, 255])  
+    yellow_lower_hsv = np.array([22, 114, 165]) 
+    yellow_upper_hsv = np.array([29, 255, 236]) 
+
+    imghsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV) # BGR to HSV
+
+    mask_white = cv2.inRange(imghsv, white_lower_hsv, white_upper_hsv)
+    mask_yellow = cv2.inRange(imghsv, yellow_lower_hsv, yellow_upper_hsv)
+
+    mask_left_edge = mask_yellow
+    mask_right_edge = mask_white
 
     return mask_left_edge, mask_right_edge
