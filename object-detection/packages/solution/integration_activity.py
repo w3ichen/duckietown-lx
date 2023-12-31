@@ -37,7 +37,7 @@ def filter_by_classes(pred_class: int) -> bool:
     # Right now, this returns True for every object's class
     # TODO: Change this to only return True for duckies!
     # In other words, returning False means that this prediction is ignored.
-    return True
+    return pred_class == 0
 
 
 def filter_by_scores(score: float) -> bool:
@@ -48,7 +48,7 @@ def filter_by_scores(score: float) -> bool:
     # Right now, this returns True for every object's confidence
     # TODO: Change this to filter the scores, or not at all
     # (returning True for all of them might be the right thing to do!)
-    return True
+    return score > 0.5
 
 
 def filter_by_bboxes(bbox: Tuple[int, int, int, int]) -> bool:
